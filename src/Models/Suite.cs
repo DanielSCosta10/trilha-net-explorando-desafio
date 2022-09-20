@@ -1,4 +1,4 @@
-namespace DesafioProjetoHospedagem.Models
+namespace DesafioProjetoHospedagem.src.Models
 {
     public class Suite
     {
